@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DatabindAndMapsTrainning</string>
+    <string name="fragment_text">Fragment Text</string>
+</resources>
